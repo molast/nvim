@@ -6,7 +6,7 @@ return function()
 		collections = {
 			-- Search using filenames
 			file = {
-				initial_tab = 1,
+				initial_tab = 2,
 				tabs = {
 					{
 						name = "Files",
