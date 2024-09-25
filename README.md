@@ -2,7 +2,6 @@
 
 This repo hosts our [Neovim](https://neovim.io/) configuration for Linux [(with NixOS support)](#nixos-support), macOS, and Windows. `init.lua` is the config entry point.
 
-
 We currently manage plugins using [lazy.nvim](https://github.com/folke/lazy.nvim).
 
 ### 🎐 Features
@@ -138,26 +137,3 @@ It's strongly recommended to read [Wiki: Prerequisites](https://github.com/ayami
 - If you find anything that needs improving, do not hesitate to point it out or create a PR.
 - If you come across an issue, you can first use `:checkhealth` command provided by nvim to trouble-shoot yourself.
   - If you still have such problems, feel free to open a new issue!
-
-## ❤️ Thanks to
-
-- [ayamir](https://github.com/ayamir)
-- [Jint-lzxy](https://github.com/Jint-lzxy)
-- [CharlesChiuGit](https://github.com/CharlesChiuGit)
-- [aarnphm](https://github.com/aarnphm)
-- [misumisumi](https://github.com/misumisumi)
-
-## 🎉 Acknowledgement
-
-- [glepnir/nvim](https://github.com/glepnir/nvim)
-
-## 📜 License
-
-This Neovim configuration is released under the BSD 3-Clause license, which grants the following permissions:
-
-- Commercial use
-- Distribution
-- Modification
-- Private use
-
-For more convoluted language, see the [LICENSE](https://github.com/ayamir/nvimdots/blob/main/LICENSE).
